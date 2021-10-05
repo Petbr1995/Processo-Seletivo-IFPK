@@ -1,0 +1,27 @@
+#link2 {
+
+    margin-top: 40px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+h1{
+
+    margin-top: 25px;
+    text-align: center;
+   
+
+}
+
+#cadastro{
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 80px;
+    border-radius: 25px;
+    background-color: rgba(128, 128, 128, 0.377);
+    width: 40%;
+    margin-left: 30%;
+    box-shadow: 5px 2px 5px 3px rgba(0, 0, 0, 0.514);
+    padding: 5px;
+}
